@@ -33,54 +33,6 @@
 
 ---
 
-
-## 📘 Table of Contents
-
-- [Influencer Discovery](#influencer-discovery)
-- [Competitor Analysis](#competitor-analysis)
-- [Lead Generation](#lead-generation)
-- [AI Applications](#ai-applications)
-- [Related Repositories](#related-repositories)
-- [Support This Project](#-support-this-project)
-
----
-
-
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/data-scrape/instagram-follower-scraper?style=social)](https://github.com/data-scrape/instagram-follower-scraper)
-[![GitHub forks](https://img.shields.io/github/forks/data-scrape/instagram-follower-scraper?style=social)](https://github.com/data-scrape/instagram-follower-scraper/fork)
-[![GitHub issues](https://img.shields.io/github/issues/data-scrape/instagram-follower-scraper)](https://github.com/data-scrape/instagram-follower-scraper/issues)
-[![GitHub license](https://img.shields.io/github/license/data-scrape/instagram-follower-scraper)](https://github.com/data-scrape/instagram-follower-scraper/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
-
-</div>
-
-
-> Instagram follower scraper - extract follower and following lists
-
-
-<!-- SEO keywords: instagram follower scraper, Instagram Follower Scraper, instagram follower scraper python, instagram follower scraper github, best instagram follower scraper -->
-
-
-<div align="center">
-
-[![CoreClaw](https://img.shields.io/badge/CoreClaw-Data_Scraping_Platform-7B2FF7?style=for-the-badge&labelColor=5B21B6)](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-**The All-in-One Web Scraping & Data Platform** — Scrape Google Maps, Instagram, Amazon, LinkedIn, TikTok, YouTube, and 50+ platforms via ready-to-use REST APIs.
-
-✅ No browser automation · ✅ No proxy management · ✅ Free credits for new users
-
-⬇️ [Get Started with CoreClaw Free](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7)
-
-</div>
-
----
-
-
----
-
-
 > Extract public Instagram followers, creator profiles, engagement metrics, and business account information using production-ready APIs.
 
 CoreClaw provides scalable Instagram data APIs for influencer marketing, lead generation, AI applications, and social media analytics.
